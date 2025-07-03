@@ -114,10 +114,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-main:
-  - title: "Über mich"
-    url: /about/
-  - title: "CV"
-    url: /cv/
-  - title: "Galerie"
-    url: /gallery/

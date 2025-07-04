@@ -1,9 +1,12 @@
 ---
-title: "Curriculum Vitae"
+layout: home
+title: "Stefanie Loracher"
 permalink: /cv/
-layout: single
 author_profile: true
 ---
+
+<section data-aos="fade-up">
+
 
 <style>
   /* Smaller font size for the CV page */
@@ -73,3 +76,4 @@ Email: loracher@tuta.io
 ## Contact
 
 - Email: loracher@tuta.io
+</section>

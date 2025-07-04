@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "Stefanie Loracher"
 permalink: /cv/
 author_profile: true

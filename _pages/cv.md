@@ -1,79 +1,75 @@
 ---
-title: "Lebenslauf"
+title: "Curriculum Vitae"
 permalink: /cv/
 layout: single
 author_profile: true
 ---
 
+<style>
+  /* Smaller font size for the CV page */
+  .page__content {
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+</style>
+
 # Stefanie Loracher  
-Goetheallee 33, 98693 Ilmenau  
-0151 50359253 · loracher@tuta.io · [LinkedIn](https://linkedin.com/in/stefanieloracher)
+Email: loracher@tuta.io
 
 ---
 
-## Berufserfahrung
+## Experience
 
 ### Ilmsens GmbH  
 **Application Engineer**  
-*Mar 2024 – heute*  
+*Mar 2024 – Present*  
 - Real-time liquid concentration and composition analysis  
-- Lead generation  
-- Schnittstelle zwischen Inhouse-Datenanalyse und externen Partnern  
-- Projektleitung für inline-Messsystem m:explore.eis (Produktion)  
-- Projektleitung für umfangreiches Messsystem m:explore.lab (Labor)
+- Lead generation and project lead for in-line and laboratory measurement systems  
+- Interface between data analysis and external partners
 
 **Development Engineer**  
 *Mar 2022 – Feb 2024*  
 - Hyper wideband impedance spectrometry  
-- Entwicklung von Kalibrierverfahren  
-- Proof of Concept Messungen  
-- Schnittstelle zwischen Inhouse-Datenanalyse und externen Partnern
+- Calibration method development and proof of concept measurements
 
 **Application Engineer**  
 *Apr 2019 – Nov 2022*  
-- Flüssigkeitsanalyse mittels ultra-wideband Impedanzspektroskopie  
-- Fallstudien und Problemanalysen  
-- Entwicklung von Sondenprototypen und Messaufbauten  
-- Datenanalyse  
+- Liquid analysis using ultra-wideband impedance spectroscopy  
+- Development of probe prototypes and measurement setups  
 
 ### MetraLabs GmbH  
-**Development Engineer (Teilzeit)**  
+**Development Engineer (Part-time)**  
 *Jan 2019 – Mar 2019*  
-- Projektbezogene Tätigkeiten mit Bezug auf Ilmsens GmbH  
+- Project-related work linked with Ilmsens GmbH  
 
 ### Technische Universität Ilmenau  
-**Doktorandin**  
+**Doctoral Researcher**  
 *Apr 2012 – Mar 2018*  
-- Forschung in RF- und Mikrowellentechnik  
-- Entwicklung von abstimmbaren transistorbasierten RF-Induktivitäten  
-- Veröffentlichung von Forschungsergebnissen  
-- Betreuung von Abschlussarbeiten und Laboreinweisungen  
-- Mitarbeit im SPiTSE Projekt (Strategische Partnerschaft TU Ilmenau u.a.)
+- RF and microwave research focusing on transistor-based inductances  
+- Supervision of theses and lab training  
+- Publication of research results
 
-**Studentische Hilfskraft**  
+**Student Research Assistant**  
 *Aug 2010 – Aug 2011*  
-- Schaltungsentwurf und Messungen im Rahmen des UKoLoS-Programms  
+- Circuit design and measurements for priority research programs  
 
 ### Rohde & Schwarz  
-**Praktikantin**  
+**Engineering Intern**  
 *Sep 2009 – Feb 2010*  
-- Filterdesign und Umsetzung eines Oktavfilterbanksystems bis 6 GHz (Bachelorarbeit)
+- Filter design and implementation for octave filter bank up to 6 GHz  
 
 ---
 
 ## Skills
 
-- Strategisches Projektmanagement  
-- Datenanalyse und Datensammlung  
-- Koordination und Teamarbeit  
-- Entwicklung elektronischer Messsysteme  
-- Kenntnisse in Analog- und Hochfrequenztechnik  
-- Englisch fließend
+- Project management and coordination  
+- Data collection and analysis  
+- Electronic measurement system development  
+- Analog and RF circuit design  
+- Fluent in English  
 
 ---
 
-## Kontakt
+## Contact
 
-- E-Mail: loracher@tuta.io  
-- Telefon: 0151 50359253  
-- [LinkedIn Profil](https://linkedin.com/in/stefanieloracher)  
+- Email: loracher@tuta.io
